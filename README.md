@@ -8,6 +8,15 @@ Any list that ends with `_` or `.` is treated specially, and processed by NextAc
 
 Note that NextAction requires Todoist Premium to function properly, as labels are a premium feature.
 
+mike7154 changes
+============
+There are things I changed that fit my preferences better
+1. Projects had to be processed as parrallel, serial, or not at all. I added a 'None' option.
+    - Now i can label a project as None, and a task as "serial" to process only that task in the project
+    - Now the inbox doesn't clutter my @next_action label since I can make it not processed
+2. You can take an item off the @next_action list by adding a @Someday tag. Now I can take specific items off the list manually
+
+
 Requirements
 ============
 
